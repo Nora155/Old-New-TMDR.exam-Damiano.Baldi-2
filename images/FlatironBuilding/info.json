@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 77,
+    "height" : 102
+  }, {
+    "width" : 153,
+    "height" : 204
+  }, {
+    "width" : 305,
+    "height" : 407
+  }, {
+    "width" : 610,
+    "height" : 813
+  }, {
+    "width" : 1219,
+    "height" : 1626
+  }, {
+    "width" : 2438,
+    "height" : 3251
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2438,
+  "@id" : "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3251
+}

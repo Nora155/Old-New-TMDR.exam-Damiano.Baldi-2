@@ -9,6 +9,168 @@
     },
     "items": [
         {
+            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/ShardLondon/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ShardLondon"
+                ]
+            },
+            "height": 5184,
+            "width": 3456,
+            "items": [
+                {
+                    "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/ShardLondon/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/ShardLondon/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/ShardLondon/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 108,
+                                                "height": 162
+                                            },
+                                            {
+                                                "width": 216,
+                                                "height": 324
+                                            },
+                                            {
+                                                "width": 432,
+                                                "height": 648
+                                            },
+                                            {
+                                                "width": 864,
+                                                "height": 1296
+                                            },
+                                            {
+                                                "width": 1728,
+                                                "height": 2592
+                                            },
+                                            {
+                                                "width": 3456,
+                                                "height": 5184
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3456,
+                                        "@id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/ShardLondon",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5184,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/ShardLondon/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "FlatironBuilding"
+                ]
+            },
+            "height": 3251,
+            "width": 2438,
+            "items": [
+                {
+                    "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 77,
+                                                "height": 102
+                                            },
+                                            {
+                                                "width": 153,
+                                                "height": 204
+                                            },
+                                            {
+                                                "width": 305,
+                                                "height": 407
+                                            },
+                                            {
+                                                "width": 610,
+                                                "height": 813
+                                            },
+                                            {
+                                                "width": 1219,
+                                                "height": 1626
+                                            },
+                                            {
+                                                "width": 2438,
+                                                "height": 3251
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2438,
+                                        "@id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3251,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SienaDuomo/canvas/",
             "type": "Canvas",
             "label": {
