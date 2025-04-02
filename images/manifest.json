@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Nora155/Old-New-TMDR.exam-Damiano.Baldi-2 project"
+        ]
+    },
+    "items": []
+}
