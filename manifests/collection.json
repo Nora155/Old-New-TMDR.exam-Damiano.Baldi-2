@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/manifestChurchBotta.json",
     "label" : "Church of San Giovanni Battista"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/manifestFlatironBuilding.json",
+    "label" : "Flatiron Building"
   } ]
 }
