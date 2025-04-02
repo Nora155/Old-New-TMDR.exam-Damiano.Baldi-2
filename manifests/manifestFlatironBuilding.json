@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/manifestFlatironBuilding.json",
+  "@type" : "sc:Manifest",
+  "label" : "Flatiron Building",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "The Flatiron Building, originally the Fuller Building, designed by Daniel Burnham and Frederick P. Dinkelberg. It was opened in 1902 and it is located at 175 Fifth Avenue in the Flatiron District neighborhood of Manhattan in New York City.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://c73c2d44-e586-446a-8c42-ab633fef188a",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://7a8837b8-a29d-4086-a3a8-d71bb1df7f87",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3251,
+      "width" : 2438,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://03ebaf4d-25ff-437d-8e67-17e7cc9947d9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3251,
+          "width" : 2438
+        },
+        "on" : "http://7a8837b8-a29d-4086-a3a8-d71bb1df7f87"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
