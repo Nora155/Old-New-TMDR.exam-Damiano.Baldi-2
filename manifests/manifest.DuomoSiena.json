@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/manifest.DuomoSiena.json",
+  "@type" : "sc:Manifest",
+  "label" : "Santa Maria Assunta Cathedral ",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "The Cathedral of Santa Maria Assunta, commonly referred to as the Duomo di Siena, stands as example of Gothic architecture in Italy. Constructed between the 12th and 14th centuries. Inside, the Duomo features a soaring central nave flanked by striped columns in with black and white marble (reflecting the symbolic colors of the city of Siena) that support pointed arches. Stained glass windows cast colorful light, illuminating the ornately decorated interiors. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://859c5c61-b09a-4e15-b0e8-d6c5b3ea8fd6",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://8649d8b7-1dca-414e-be61-89c3a1e856a8",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1833,
+      "width" : 2750,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c2946605-ba57-4563-a801-d1541a640304",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SienaDuomo/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SienaDuomo",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1833,
+          "width" : 2750
+        },
+        "on" : "http://8649d8b7-1dca-414e-be61-89c3a1e856a8"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
