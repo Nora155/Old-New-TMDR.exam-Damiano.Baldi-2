@@ -1,0 +1,13 @@
+{
+  "id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Nora155/Old-New-TMDR.exam-Damiano.Baldi-2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/manifest.DuomoSiena.json",
+    "label" : "Santa Maria Assunta Cathedral "
+  } ]
+}
