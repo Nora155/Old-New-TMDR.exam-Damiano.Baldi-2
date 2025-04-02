@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/manifestFlatironBuilding.json",
     "label" : "Flatiron Building"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/manifestTheShard.json",
+    "label" : "The Shard"
   } ]
 }
