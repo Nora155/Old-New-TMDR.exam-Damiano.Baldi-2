@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/manifestChurchBotta.json",
+  "@type" : "sc:Manifest",
+  "label" : "Church of San Giovanni Battista",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "The Church of San Giovanni Battista in Mogno, Switzerland, is an example of modern sacred architecture, designed by the renowned Swiss architect Mario Botta.  Constructed between 1994 and 1996. The building's materials - white marble with layers of local Vallemaggia granite - create a visually striking black and white striped pattern that echoes the Duomo di Siena. The interior is minimalist, emphasizing the play of light and shadow, which changes with the time of day and season.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://ce99fe42-3ef7-4dad-9a06-d1f1d9a346f1",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://61801c9d-06f3-4bee-bada-0093e9dd06f7",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5699,
+      "width" : 8548,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://acef4985-0f89-46a2-8d8e-99d3cdc0ef15",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/BottaChapel/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/BottaChapel",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5699,
+          "width" : 8548
+        },
+        "on" : "http://61801c9d-06f3-4bee-bada-0093e9dd06f7"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
