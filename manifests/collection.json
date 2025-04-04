@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/manifestDuomoSienaCopiaCopia.json",
     "label" : "Santa Maria Assunta Cathedral "
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/OldAndNew.ArchitecturalEchoes.manifest.json",
+    "label" : "Old and New: Architectural Echoes"
   } ]
 }
