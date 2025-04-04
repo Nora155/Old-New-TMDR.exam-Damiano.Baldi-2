@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nora155.github.io/Old&New-TMDR.exam-Damiano.Baldi-2/manifests/OldAndNew.ArchitecturalEchoes.manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Old and New: Architectural Echoes",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A comprehension of pairs of buildings that serve similar purposes but were built in different eras; a visual case study of a mix of old and new styles. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://f7ad8def-9038-4e07-a15f-1e5a0321fca6",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://eb46e8fd-a461-4e91-9a91-ffe9d092363c",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 648,
+      "width" : 968,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4b7c541f-0666-4c3a-9d1a-55d5ddc64323",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GrandCentralTerminal/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GrandCentralTerminal",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 648,
+          "width" : 968
+        },
+        "on" : "http://eb46e8fd-a461-4e91-9a91-ffe9d092363c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://83d62900-f37f-40ad-9a85-dffd818499f1",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 966,
+      "width" : 1288,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://eb3f1886-c22a-4f7c-843b-9de9848689ee",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NapoliAfragola/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NapoliAfragola",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 966,
+          "width" : 1288
+        },
+        "on" : "http://83d62900-f37f-40ad-9a85-dffd818499f1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dfbc4c43-9e36-40f5-83a4-a482a859d74e",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1500,
+      "width" : 1000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://12eff368-e2fa-4de0-b077-ff00e1f2a42b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NationalGallery/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NationalGallery",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1500,
+          "width" : 1000
+        },
+        "on" : "http://dfbc4c43-9e36-40f5-83a4-a482a859d74e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f74bcadc-2450-4ac4-8d05-e5396be35604",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 695,
+      "width" : 1042,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://79f92bff-36e3-44ff-9b66-e2cca461498d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GuggenheimBilbao/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GuggenheimBilbao",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 695,
+          "width" : 1042
+        },
+        "on" : "http://f74bcadc-2450-4ac4-8d05-e5396be35604"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://20c34ac4-479a-49dc-8eb9-46422b42d28e",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1833,
+      "width" : 2750,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2a291b89-f340-44b1-8eb3-613836bea18d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SienaDuomo/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SienaDuomo",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1833,
+          "width" : 2750
+        },
+        "on" : "http://20c34ac4-479a-49dc-8eb9-46422b42d28e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ffb7a417-8d85-4e3f-8e52-68cbea92f152",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5699,
+      "width" : 8548,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://14354180-6fb8-468c-966b-0384acdf5da8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/BottaChapel/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/BottaChapel",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5699,
+          "width" : 8548
+        },
+        "on" : "http://ffb7a417-8d85-4e3f-8e52-68cbea92f152"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9ed45bc3-7cdd-4765-98f2-8fa1809257e2",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3251,
+      "width" : 2438,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fc8deb5b-f9c7-42f0-804d-e7bea1541646",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3251,
+          "width" : 2438
+        },
+        "on" : "http://9ed45bc3-7cdd-4765-98f2-8fa1809257e2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2094a2fb-c5b3-4bae-964e-0e87bbd57831",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5184,
+      "width" : 3456,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a06f34e1-d0d4-4077-81fd-c56e3f9851ea",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/ShardLondon/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/ShardLondon",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5184,
+          "width" : 3456
+        },
+        "on" : "http://2094a2fb-c5b3-4bae-964e-0e87bbd57831"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9aa02849-3887-407b-b868-52c3e65ede17",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 853,
+      "width" : 1279,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7bb61c3b-35db-4130-aaf7-5bf7a506c102",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/OperaGarnier/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/OperaGarnier",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 853,
+          "width" : 1279
+        },
+        "on" : "http://9aa02849-3887-407b-b868-52c3e65ede17"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b78c378d-b188-4fed-8faf-a05a9876d24a",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1000,
+      "width" : 1500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fe2e5ddc-e3ab-4159-9854-3379593011e5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SydneyOperaHouse/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SydneyOperaHouse",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1000,
+          "width" : 1500
+        },
+        "on" : "http://b78c378d-b188-4fed-8faf-a05a9876d24a"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
