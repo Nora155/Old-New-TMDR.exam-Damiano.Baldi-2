@@ -9,6 +9,168 @@
     },
     "items": [
         {
+            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NationalGallery/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "NationalGallery"
+                ]
+            },
+            "height": 1500,
+            "width": 1000,
+            "items": [
+                {
+                    "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NationalGallery/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NationalGallery/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NationalGallery/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 32,
+                                                "height": 47
+                                            },
+                                            {
+                                                "width": 63,
+                                                "height": 94
+                                            },
+                                            {
+                                                "width": 125,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 375
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 750
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 1500
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1000,
+                                        "@id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NationalGallery",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1500,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/NationalGallery/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GuggenheimBilbao/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "GuggenheimBilbao"
+                ]
+            },
+            "height": 695,
+            "width": 1042,
+            "items": [
+                {
+                    "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GuggenheimBilbao/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GuggenheimBilbao/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GuggenheimBilbao/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 33,
+                                                "height": 22
+                                            },
+                                            {
+                                                "width": 66,
+                                                "height": 44
+                                            },
+                                            {
+                                                "width": 131,
+                                                "height": 87
+                                            },
+                                            {
+                                                "width": 261,
+                                                "height": 174
+                                            },
+                                            {
+                                                "width": 521,
+                                                "height": 348
+                                            },
+                                            {
+                                                "width": 1042,
+                                                "height": 695
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1042,
+                                        "@id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GuggenheimBilbao",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 695,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GuggenheimBilbao/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/GrandCentralTerminal/canvas/",
             "type": "Canvas",
             "label": {
