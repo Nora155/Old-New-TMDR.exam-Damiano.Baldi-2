@@ -414,6 +414,87 @@
             ]
         },
         {
+            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SydneyOperaHouse/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "SydneyOperaHouse"
+                ]
+            },
+            "height": 1000,
+            "width": 1500,
+            "items": [
+                {
+                    "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SydneyOperaHouse/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SydneyOperaHouse/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SydneyOperaHouse/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 47,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 94,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 188,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 1000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1500,
+                                        "@id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SydneyOperaHouse",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/SydneyOperaHouse/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/FlatironBuilding/canvas/",
             "type": "Canvas",
             "label": {
@@ -732,6 +813,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/BottaChapel/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/OperaGarnier/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "OperaGarnier"
+                ]
+            },
+            "height": 853,
+            "width": 1279,
+            "items": [
+                {
+                    "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/OperaGarnier/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/OperaGarnier/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/OperaGarnier/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 40,
+                                                "height": 27
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 427
+                                            },
+                                            {
+                                                "width": 1279,
+                                                "height": 853
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1279,
+                                        "@id": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/OperaGarnier",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 853,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nora155.github.io/Old-New-TMDR.exam-Damiano.Baldi-2/images/OperaGarnier/canvas/"
                         }
                     ]
                 }
